@@ -1,0 +1,8 @@
+classes= 80
+train  = DATASET_TRAIN_IMAGES_FILE
+valid  = DATASET_VAL_IMAGES_FILE
+names = DATASET_LABELS_FILE
+backup = MODEL_BACKUP_DIR 
+results = OUTPUT_DIR
+eval=coco
+
