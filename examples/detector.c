@@ -411,7 +411,6 @@ void validate_detector(char *datacfg, char *cfgfile, char *weightfile, char *out
         }
     }
 
-
     int m = plist->size;
     int i=0;
     int t;
